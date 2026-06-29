@@ -1,9 +1,13 @@
-## Hi there 👋
+## Hey, I'm Raksfai 👋
 
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/adf91982-70c3-416a-8dc4-0a10dfed88bd/thumbnail" >
 </p>
 
+### I’m currently learning new technologies and improving my programming skills.
+<p align="center">
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/665b11e9b998f3b3c72dda8b?variant=dark" alt="roadmap.sh"/></a>
+</p>
 <!--
 **Raksfai/Raksfai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
